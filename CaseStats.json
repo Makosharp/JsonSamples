@@ -1,0 +1,27 @@
+{
+    "CaseStats": [
+        {
+            "CaseId": 147,
+            "RelativeCustomers": "David,Thomas",
+            "RelativeCustomersArray": [
+                "David",
+                "Thomas"
+            ]
+        },
+        {
+            "CaseId": 258,
+            "RelativeCustomers": "David,Sherlock",
+            "RelativeCustomersArray": [
+                "David",
+                "Sherlock"
+            ]
+        },
+        {
+            "CaseId": 369,
+            "RelativeCustomers": "Thomas",
+            "RelativeCustomersArray": [
+                "Thomas"
+            ]
+        }
+    ]
+}
